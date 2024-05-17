@@ -1,0 +1,3 @@
+
+New update 1.1 releses 
+fixed a bug on memory usage indicator that was causing app tp crash
